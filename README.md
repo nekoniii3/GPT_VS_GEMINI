@@ -1,7 +1,8 @@
-# GPT_VS_GEMINI
+# GPT VS GEMINI
  
 ## 説明
 GPT-4とGemini Proを同時に回答させるChatアプリです。<br>
+作成にはPythonの軽量WebアプリライブラリGradioを利用してます。<br>
 GPTのデフォルトのモデルは"gpt-4-1106-preview"ですが"gpt-3.5-turbo-1106"に変えることもできます。<br>
 
 <br>
